@@ -12,11 +12,11 @@ Regular text
  2. List item
  3. list
 
--Hello
--Goodbye
+- Hello
+- Goodbye
 
 *Italics*
 
 **Bold**
 
-[link] (https://www.google.com)
+[link](https://www.google.com)
